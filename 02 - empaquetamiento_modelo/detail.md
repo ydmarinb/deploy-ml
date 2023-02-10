@@ -55,7 +55,7 @@
     |
     ├── pyproject.toml          <- Archivos de metados y configuración el paquete.
     |
-     tox.ini                    <- Es una herramienta de línea de comando de prueba y administración de entornos 
-    └──                            virtuales genérica.  
+    | tox.ini                    <- Es una herramienta de línea de comando de prueba y administración de  
+    └──                             entornos virtuales genérica.  
 
 --------;
