@@ -1,0 +1,9 @@
+# repo maintenance tooling
+# black -> formatting code library
+# flake8 -> format checker
+# mypy -> testing types and doc strings
+# isort -> sort and organice orden import library
+black>=22.12.0,<23.0.0
+flake8>=6.0.0,<7.0.0
+mypy>=0.991,<1.0.0
+isort>=5.11.4,<6.0.0
